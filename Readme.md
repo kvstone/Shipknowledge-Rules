@@ -7,9 +7,11 @@
 + **技术创新**：基于共享的数据与知识，激发新的技术与知识应用创新。
 
 ## 涵盖内容
-+ **国际海事组织(IMO)规范与指南**：包括SOLAS、MARPOL、STCW等国际公约及其修正案。
++ **国际海事规范与指南**：包括SOLAS、MARPOL、STCW等国际公约及其修正案。
+
 + **船级社规范**：如DNV GL、ABS、LR等主流船级社发布的设计、建造与检验标准。
 + **国家/地区法规**：各国及地区关于船舶建造、运营、环保等方面的法律法规。
++ **航道运河港口要求**：各国航道、运河、港口的法律法规。
 
 ## 如何贡献
 + **更新维护**：欢迎任何与船舶行业规范相关的信息、文档或工具。请确保所提交内容的准确性、合法性与时效性，并遵循项目的贡献指南。
@@ -23,8 +25,9 @@
 本项目遵循MIT许可证或其他适用的开源许可协议，确保项目的开放性与可访问性。具体每份文档的版权与许可信息，请参考文档本身的说明。
 
 ## 联系方式
-+ **GitHub仓库**：
-+ **Gitee仓库**：
++ **GitHub仓库**：[https://github.com/kvstone/shipknowledge-rules](https://github.com/kvstone/shipknowledge-rules)
+
++ **Gitee仓库**：[https://gitee.com/kvstone/shipknowledge-rules](https://gitee.com/kvstone/shipknowledge-rules)
 + **电子邮件**：kivenstone@126.com
 
 ## 贡献者感谢
